@@ -1,5 +1,7 @@
 ## Quick Summary
-Load the data from a text file into an array of strings. Go through each string and clean it and separate it into fields that correspond to an occupant/person. Use a hash map to store households and their corresponding occupants. Sort it and print/export it. Much better documentation can be found in the Java files.  
+Load the data from a text file into an array of strings. Go through each string and clean it and separate it into fields that correspond to an occupant/person. Use a hash map to store households and their corresponding occupants. Sort it and print/export it. Much better documentation can be found in the Java files.
+input/output files: 
+Java files: 
 
 ## Exercise Requirements 
 Write a program using Java or an object oriented language of your preference.
